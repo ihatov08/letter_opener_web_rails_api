@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/fgrehm/letter_opener_web.git
-  revision: 56bce37fa8d93383073664e5460fbb4d34d7fdff
+  revision: e2945af50ce1ac5d6516092afb3579047aa5e744
   branch: next
   specs:
-    letter_opener_web (2.0.0.pre.alpha1)
+    letter_opener_web (2.0.0.pre.beta)
       actionmailer (>= 5.2)
       letter_opener (~> 1.7)
       railties (>= 5.2)
